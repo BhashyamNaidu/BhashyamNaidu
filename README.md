@@ -85,8 +85,8 @@ safe SQL execution, PostgreSQL, and retrieval-augmented generation.
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL](YOUR_LINKEDIN_URL)
-- Email: [Add your professional email](mailto:YOUR_EMAIL)
+- LinkedIn: [Add your LinkedIn URL]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/bhashyamnaidu/))
+- Email: [Add your professional email](bhashyamnaidu21@gmail.com)
 
 <div align="center">
 
