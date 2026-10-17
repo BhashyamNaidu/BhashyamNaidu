@@ -1,14 +1,23 @@
 
 <div align="center">
 
-# Hi, I'm Bhashyam Naidu 👋
+# Bhashyam Naidu
 
-### Backend Engineer | Cloud & Distributed Systems | AI Engineering
+### Backend Engineering · Cloud · AI Engineering
 
-Building scalable backend systems, cloud-native applications,
-and practical AI-powered solutions.
+Building scalable backend systems, cloud-native applications, and intelligent data solutions.
 
-[![GitHub](https://img.shields.io/badge/GitHub-BhashyamNaidu-181717?style=for-the-badge&logo=github)](https://github.com/BhashyamNaidu)
+<p>
+  <a href="https://github.com/BhashyamNaidu">
+    <img src="https://img.shields.io/badge/GitHub-BhashyamNaidu-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bhashyamnaidu/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:bhashyamnaidu21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 </div>
 
@@ -16,80 +25,105 @@ and practical AI-powered solutions.
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering student at VIT Vellore
-- ☁️ Interested in backend engineering, AWS, and distributed systems
-- 🛠️ Building production-oriented APIs and cloud-native applications
-- 🤖 Exploring AI engineering, RAG, and intelligent data systems
-- 📈 Focused on system design, reliability, security, and clean code
+I'm a Computer Science Engineering student at **VIT Vellore**, interested in building reliable, scalable, and production-oriented software systems.
 
-## 🧰 Tech Stack
+- ☁️ Exploring cloud architecture, AWS, and serverless computing.
+- ⚙️ Building backend services, REST APIs, and data-driven applications.
+- 🧠 Working with AI engineering, retrieval-augmented generation (RAG), and natural-language data analytics.
+- 🔐 Interested in distributed systems, application security, and software reliability.
+- 🎯 Focused on writing clean code and understanding the engineering decisions behind real-world systems.
+
+## 🛠️ Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,sql&theme=dark" alt="Python, Java, C++, JavaScript and SQL"/>
+</p>
 
-**Backend & Data**
+**Backend & Databases**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,redis,mongodb&theme=dark" alt="FastAPI, PostgreSQL, MySQL, Redis and MongoDB"/>
+</p>
 
-**Cloud & DevOps**
+**Cloud, DevOps & Tools**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,githubactions,git,linux&theme=dark" alt="AWS, Docker, Terraform, GitHub Actions, Git and Linux"/>
+</p>
+
+**AI & Data**
+
+`LLMs` · `RAG` · `Embeddings` · `SQL Analytics` · `Vector Search`
 
 ## 🚀 Featured Projects
 
-### 🛒 ShopEasy
-Production-oriented e-commerce backend built with FastAPI,
-Docker, AWS, MySQL RDS, and CI/CD.
+### 🧠 InsightQuery — AI-Powered Data Investigation
 
-**Focus:** REST APIs, cloud deployment, scalability, automation.
+An AI-powered data investigation system combining natural-language analytics, safe SQL execution, document retrieval, and evidence-backed synthesis.
 
-[View Repository](https://github.com/BhashyamNaidu/shopeasy)
+- Natural-language questions translated into structured database queries.
+- Retrieval-augmented generation for document-grounded answers.
+- SQL safety validation and auditable investigation trails.
+- Built with Python, FastAPI, PostgreSQL, SQLAlchemy, and Docker.
 
-### ☁️ CloudOrderEngine
-Event-driven order processing using AWS Lambda, SQS, SNS,
-EventBridge, DynamoDB, and Terraform.
+[![Explore InsightQuery](https://img.shields.io/badge/Explore-InsightQuery-2563EB?style=for-the-badge&logo=github)](https://github.com/BhashyamNaidu/InsightQuery)
 
-**Focus:** Serverless architecture, asynchronous processing,
-event-driven systems, infrastructure as code.
+### ☁️ CloudOrderEngine — Event-Driven Order Processing
 
-[View Repository](https://github.com/BhashyamNaidu/CloudOrderEngine)
+A cloud-native order processing system designed around asynchronous events and serverless AWS services.
 
-### 🧠 InsightQuery
-AI-powered data investigation combining natural-language analytics,
-safe SQL execution, PostgreSQL, and retrieval-augmented generation.
+- Event-driven workflows using AWS Lambda, SQS, SNS, and EventBridge.
+- DynamoDB for persistence.
+- Terraform for infrastructure as code.
 
-**Focus:** AI engineering, RAG, query safety, auditability, APIs.
+[![Explore CloudOrderEngine](https://img.shields.io/badge/Explore-CloudOrderEngine-7C3AED?style=for-the-badge&logo=github)](https://github.com/BhashyamNaidu/CloudOrderEngine)
 
-[View Repository](https://github.com/BhashyamNaidu/InsightQuery)
+### 🛒 ShopEasy — Cloud-Native E-Commerce Backend
 
-## 📊 GitHub Statistics
+A production-oriented e-commerce backend built with a focus on API design, cloud deployment, and automated delivery.
+
+- FastAPI backend with MySQL RDS.
+- Docker-based application packaging.
+- AWS Application Load Balancer and deployment infrastructure.
+- GitHub Actions CI/CD workflows.
+
+[![Explore ShopEasy](https://img.shields.io/badge/Explore-ShopEasy-059669?style=for-the-badge&logo=github)](https://github.com/BhashyamNaidu/shopeasy)
+
+---
+
+## 📊 GitHub Overview
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhashyamNaidu&show_icons=true&theme=github_dark&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BhashyamNaidu&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhashyamNaidu&layout=compact&theme=github_dark&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhashyamNaidu&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=BhashyamNaidu&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-- LinkedIn: [Add your LinkedIn URL]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/bhashyamnaidu/))
-- Email: [Add your professional email](bhashyamnaidu21@gmail.com)
+I'm always interested in connecting with developers, learning about interesting engineering problems, and exploring opportunities in backend, cloud, and AI engineering.
+
+<p>
+  <a href="https://www.linkedin.com/in/bhashyamnaidu/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bhashyam_Naidu-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn profile"/>
+  </a>
+  <a href="mailto:bhashyamnaidu21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bhashyamnaidu21%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Bhashyam Naidu"/>
+  </a>
+</p>
 
 <div align="center">
 
-*Always learning. Always building.*
+*Build with purpose. Engineer for scale. Keep learning.*
 
 </div>
